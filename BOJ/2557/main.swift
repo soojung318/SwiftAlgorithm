@@ -1,6 +1,6 @@
 //
 //  main.swift
-//  SwiftAlgorithm
+//  2557
 //
 //  Created by chris on 2023/08/11.
 //
@@ -9,5 +9,3 @@ import Foundation
 
 print("Hello, World!")
 
-let a = readLine()
-print(a)
