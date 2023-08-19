@@ -17,10 +17,10 @@ var cookedTime = Int(readLine()!)!
 m += cookedTime
 
 if m > 59 {
-    h = h + m / 60 //시
-    m %= 60 //분
+    h = h + m / 60 //hour
+    m %= 60 //minute
 }
-if h > 23 { //24시 초과->0시로 변경
+if h > 23 { //Over 24 hours -> change to 0 hours
     h -= 24
 }
 print("\(h) \(m)")
