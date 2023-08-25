@@ -9,5 +9,3 @@ import Foundation
 
 print("Hello, World!")
 
-let a = readLine()
-print(a)
