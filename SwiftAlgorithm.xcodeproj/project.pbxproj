@@ -624,7 +624,6 @@
 				E3DB3C602A9787200060EBCC /* Exercise */,
 				E3910F192A8619FB001FB7CF /* BOJ */,
 				E3910EEF2A8611BD001FB7CF /* SwiftAlgorithm */,
-				E3DB3C872A9865BE0060EBCC /* factorial */,
 				E3910EEE2A8611BD001FB7CF /* Products */,
 			);
 			sourceTree = "<group>";
@@ -768,6 +767,7 @@
 		E3DB3C602A9787200060EBCC /* Exercise */ = {
 			isa = PBXGroup;
 			children = (
+				E3DB3C872A9865BE0060EBCC /* factorial */,
 				E3DB3C7C2A979D670060EBCC /* isPrime */,
 				E3DB3C712A979A090060EBCC /* randomElement */,
 			);
